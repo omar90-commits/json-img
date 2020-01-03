@@ -2,70 +2,70 @@
 	"projects": [
 		{
 			"id"    : 1,
-			"image" : "imagenes/1.jpg",
+			"image" : "https://www.w3schools.com/w3images/house5.jpg",
 			"title" : "Summer House"  
 		},
 		{
 			"id"    : 2,
-			"image" : "imagenes/2.jpg",
+			"image" : "https://www.w3schools.com/w3images/house2.jpg",
 			"title" : "Brick House"
 		},
 		{
 			"id"    : 3,
-			"image" : "imagenes/3.jpg",
+			"image" : "https://www.w3schools.com/w3images/house3.jpg",
 			"title" : "Renovated"
 		},
 		{
 			"id"    : 4,
-			"image" : "imagenes/4.jpg",
+			"image" : "https://www.w3schools.com/w3images/house4.jpg",
 			"title" : "Barn House"
 		},
 		{
 			"id"    : 5,
-			"image" : "imagenes/5.jpg",
+			"image" : "https://www.w3schools.com/w3images/house2.jpg",
 			"title" : "Summer House"
 		},
 		{
 			"id"    : 6,
-			"image" : "imagenes/6.jpg",
+			"image" : "https://www.w3schools.com/w3images/house5.jpg",
 			"title" : "Brick House"
 		},
 		{
 			"id"    : 7,
-			"image" : "imagenes/7.jpg",
+			"image" : "https://www.w3schools.com/w3images/house4.jpg",
 			"title" : "Renovated"
 		},
 		{
 			"id"    : 8,
-			"image" : "imagenes/8.jpg",
+			"image" : "https://www.w3schools.com/w3images/house3.jpg",
 			"title" : "Barn House"
 		}
 	],
 	"about": [
 		{
 			"id"    	 : 1,
-			"image" 	 : "imagenes/team1.jpg",
+			"image" 	 : "https://www.w3schools.com/w3images/team2.jpg",
 			"name"  	 : "John Doe",
 			"title" 	 : "CEO & Founder",
 			"description":"Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum." 
 		},
 		{
 			"id"    	 : 2,
-			"image" 	 : "imagenes/team2.jpg",
+			"image" 	 : "https://www.w3schools.com/w3images/team1.jpg",
 			"name"  	 : "Jane Doe",
 			"title" 	 : "Architect",
 			"description": "Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum." 
 		},
 		{
 			"id"    	 : 3,
-			"image" 	 : "imagenes/team3.jpg",
+			"image" 	 : "https://www.w3schools.com/w3images/team3.jpg",
 			"name"  	 : "Mike Ross",
 			"title" 	 : "Architect",
 			"description": "Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum." 
 		},
 		{
 			"id"    	 : 4,
-			"image" 	 : "imagenes/team4.jpg",
+			"image" 	 : "https://www.w3schools.com/w3images/team4.jpg",
 			"name"  	 : "Dan Star",
 			"title" 	 : "Architect",
 			"description": "Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum." 
